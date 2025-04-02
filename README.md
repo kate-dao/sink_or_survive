@@ -19,3 +19,6 @@ Model performance was assessed using classification accuracy on the test set. Fo
 
 ### 5. Submission:
 The best-performing model’s predictions were formatted according to Kaggle’s submission requirements and saved for evaluation on the Titanic competition leaderboard.
+
+## Conclusion
+After building and evaluating three machine learning models—Linear Regression, K-Nearest Neighbors (KNN), and Decision Tree—to predict survival outcomes on the Titanic dataset, KNN demonstrated the highest predictive performance. Through careful preprocessing, feature scaling, and model tuning, KNN consistently outperformed the other models in validation accuracy. This outcome highlights the effectiveness of distance-based algorithms for structured datasets where feature scaling and local data patterns play a significant role. The project reinforced the importance of model selection, hyperparameter tuning, and evaluation in building accurate and reliable predictive models.
